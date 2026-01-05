@@ -1,6 +1,6 @@
-site_name: EGR 304 Jacob Dirks
-site_url: https://jacobdirks.github.io/
-repo_url: https://github.com/JacobDirks/JacobDirks.github.io
+site_name: Jacob Dirks Portfolio
+site_url: https://DirksProjects.github.io/
+repo_url: https://github.com/JacobDirks/DirksProjects.github.io/
 edit_uri: edit/main/docs/
 theme:
   name: material
@@ -59,7 +59,7 @@ extra_javascript:
 not_in_nav: |
   static
   
-copyright: "Copyright &copy; 2025 Team 102"
+# copyright: "Copyright &copy; 2025 Team 102"
 
 extra:
   generator: false
