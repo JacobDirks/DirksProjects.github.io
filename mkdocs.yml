@@ -61,9 +61,9 @@ not_in_nav: |
     
 # copyright: "Copyright &copy; 2025 Team 102"
 
- extra:
-  generator: false
-  social:
-    - icon: fontawesome/regular/file-code
-      link: /2025_fall
-      name: 2023 Site    
+# extra:
+#  generator: false
+#  social:
+#    - icon: fontawesome/regular/file-code
+#      link: /2025_fall
+#      name: 2023 Site    
