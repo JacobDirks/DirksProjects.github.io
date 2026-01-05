@@ -1,6 +1,6 @@
 site_name: Jacob Dirks Portfolio
 site_url: https://jacobdirks.github.io/DirksProjects/
-repo_url: https://github.com/JacobDirks/DirksProjects
+repo_url: https://github.com/JacobDirks/DirksProjects/
 edit_uri: edit/main/docs/
 theme:
   name: material

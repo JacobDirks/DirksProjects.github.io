@@ -58,3 +58,4 @@ For all the sections
 * To review the pcb, please visit the ["PCB"](https://jacobdirks.github.io/06-PCB/pcb/) section of the database.
 * To review the code, please visit the ["MPLAB code"](https://jacobdirks.github.io/07-Code/mplabCode/) section of the database.
 * To review future steps, please visit the ["Hardware V2.0"](https://jacobdirks.github.io/08-Hardware/hardware/) section of the database.
+--> 
